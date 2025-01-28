@@ -12,3 +12,4 @@ Grade Projections: View your current grades and projected outcomes for each cour
 The dashboard serves as the central hub for all your academic data, making it easy to assess performance across different subjects. This JavaFX application’s sleek design and responsive interface enhance usability while maintaining a professional look.
 
 Whether you’re trying to meet a specific academic target or simply want to stay on top of your coursework, this application is the ultimate tool for success. Empower yourself to take control of your academic journey—organize, track, and achieve your goals with ease.
+Use the rar file to get the complete project code to run the app . There is a complete report file with arcitecture .
